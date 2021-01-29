@@ -1,10 +1,10 @@
 # Setup
-npm install 
+npm install </br>
 npm start
 
 # Objetivo
 Number generate.
 
-Componentes React
-States e Hooks
-Props.
+Componentes React <br>
+States e Hooks<br>
+Props.<br>
