@@ -1,8 +1,9 @@
-# Start
+# Setup
+npm install 
 npm start
 
-# Obejtivo.
-Gerador de de numero aleatorio entre (1 a 100) utilizando:
+# Objetivo
+Number generate.
 
 Componentes React
 States e Hooks
